@@ -19,3 +19,4 @@ v0.2 /
 11.12.2023 /
 ConzZah
 --------------------
+https://www.icloud.com/shortcuts/ceed395512a24887a24cda244d881942
