@@ -1,18 +1,24 @@
 # HotSpotManager-HSM
 
-iOS Shortcut that makes it easier to set up hotspots, you can:
+!!! NOW YOU CAN CREATE QR CODES OF YOUR HOTSPOT !!!
 
+
+What this is:
+
+It's an iOS Shortcut that makes it easier to set up hotspots, you can:
+
+- Create WORKING QR-Codes that let others join your hotspot
+  
+- set/change your hotspot password
+  
 - Turn your hotspot on/off (wow)
-- set your hotspot password
-- and review your current one to give ur friends internet lol 
 
 
-i'm working with implementing qr code generation so sharing should be even easier.
-
+  
 --------------------
 Current Version:
 HotSpotManager-HSM
-v0.1
+v0.2
 11.12.2023
 ConzZah
 --------------------
