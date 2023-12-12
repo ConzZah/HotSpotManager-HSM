@@ -1,4 +1,4 @@
-# HotSpotManager-HSM
+# HotSpotManager - HSM [IOS]
 
 What this is:
 
