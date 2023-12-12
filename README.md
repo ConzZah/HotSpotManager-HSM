@@ -28,7 +28,7 @@ to be less confusing to read
 Current Version:
 HotSpotManager-HSM
 v0.3 /
-11.12.2023 /
+12.12.2023 /
 ConzZah
 --------------------
 https://www.icloud.com/shortcuts/8b00a01067b144a78038ad896c24c226
