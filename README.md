@@ -4,7 +4,7 @@ What this is:
 
 It's an iOS Shortcut that makes it easier to set up hotspots, you can:
 
-- Create WORKING QR-Codes that others can scan and join your hotspot in seconds
+- Create WORKING QR-Codes that others can scan to join your hotspot in seconds
 
 - View your hotspot password as plain text
   
