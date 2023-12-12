@@ -4,11 +4,15 @@ What this is:
 
 It's an iOS Shortcut that makes it easier to set up hotspots, you can:
 
-- Create WORKING QR-Codes that let others join your hotspot
+- Create WORKING QR-Codes that let others join your hotspot in seconds
+
+- View your hotspot password as plain text
   
 - set/change your hotspot password
   
 - Turn your hotspot on/off (wow)
+
+
 
 --- Patchnotes for v0.3 ---
 
